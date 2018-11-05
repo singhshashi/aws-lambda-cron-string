@@ -1,0 +1,24 @@
+{
+  "name": "aws-lambda-cron-string",
+  "version": "1.0.0",
+  "description": "Generate Cron string for AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhshashi/aws-lambda-cron-string.git"
+  },
+  "keywords": [
+    "aws",
+    "cron",
+    "lambda"
+  ],
+  "author": "Shashi Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/singhshashi/aws-lambda-cron-string/issues"
+  },
+  "homepage": "https://github.com/singhshashi/aws-lambda-cron-string#readme"
+}
